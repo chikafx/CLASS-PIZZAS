@@ -49,7 +49,7 @@ section:nth-of-type(8){
 
 section:nth-of-type(9){
     background-image:
-    url(./yellowstar.png), url(./yellowstar2.png), url(./yellowstar3.png), url(./yellowstar4.png), url(./yellowstar5.png);
+    url(./yellowstar5.png), url(./yellowstar5.png), url(./yellowstar5.png), url(./yellowstar5.png), url(./yellowstar5.png);
     background-color: red;
     background-repeat: no-repeat;
     background-size: 80px, 20px, 20px, 20px, 20px;
