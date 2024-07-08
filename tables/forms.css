@@ -1,0 +1,104 @@
+section{
+    width:26%;
+    height: 280px;
+    margin: 25px auto;
+    border: 10px #1f2630;
+    background-color: #1f2630;
+    color: #fff;
+    border-radius: 20px;
+    position: relative top;
+    text-align: center;
+}
+
+section>p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-small;
+    color: rgba(255, 255, 255, 0.363);
+    text-indent: 3%;
+    
+}
+
+body>section>h1{
+    text-align: left;
+    text-indent: 5%;
+}
+
+section>input{
+    background-color: #FC7613;
+    width: 300px;
+    height: 40px;
+    border-radius: 50px;
+    background-position: 500px
+}
+
+p input{
+    background-color: #1f2630;
+    width: 40px;
+    height: 40px;
+    margin-left: -80%;
+    border-radius: 27px;
+    color: #fff;
+    margin-bottom: 0;
+}
+
+p+p{
+    margin-top: -14.1%;
+    margin-left: 17%;
+    color: #fff;
+    margin-bottom: 2.5%;
+    margin-top: -14.7%;
+}
+
+p+p+p{
+    margin-top: -14.1%;
+    margin-left: 35%;
+    color: #fff;
+
+}
+
+p+p+p+p{
+    margin-top: -14.1%;
+    margin-left: 55%;
+    color: #fff;
+
+}
+
+p+p+p+p+p{
+    margin-left: 75%;
+}
+
+section{
+    background-image: url(./CLASS-PIZZAS/yellowstar5.png);
+    background-repeat: no-repeat;
+    background-size: 30px, 40%;
+    background-position: 16PX 16PX;
+}
+
+section:nth-of-type(2){
+    width: 350px;
+    background-color: rgb(46, 44, 44);
+    height: 600px;
+    background-image: url(./CLASS-PIZZAS/chika\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: 130px 56px;
+    border-radius: 50px 50px, 20px 20px;
+    border-image: 100px;
+}
+
+
+div h1+h2{
+    color: #fff700;
+    font-size: large;
+    margin-top: -5%;
+}
+
+h2+h2{
+    font-size: medium;
+}
+
+section:nth-of-type(2) h2~p input{
+    color: white;
+    width: 300px;
+    margin-left: 2%;
+}
