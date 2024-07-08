@@ -68,7 +68,7 @@ p+p+p+p+p{
 }
 
 section{
-    background-image: url(./CLASS-PIZZAS/yellowstar5.png);
+    background-image: url(./yellowstar5.png);
     background-repeat: no-repeat;
     background-size: 30px, 40%;
     background-position: 16PX 16PX;
@@ -78,7 +78,7 @@ section:nth-of-type(2){
     width: 350px;
     background-color: rgb(46, 44, 44);
     height: 600px;
-    background-image: url(./CLASS-PIZZAS/chika\ image.jpg);
+    background-image: url(./chika\ image.jpg);
     background-repeat: no-repeat;
     background-size: 70px;
     background-position: 130px 56px;
